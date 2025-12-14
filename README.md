@@ -1,14 +1,15 @@
 # CS50_Python
-  Harvard CS50 Python challenges. 
-  [Harvard CS50: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+ 
   ![alt text](https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg)
+  Harvard CS50 Python challenges. | 
+  [Harvard CS50: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
 ## Table of contents
 
 
 | Week 	 | Name                                                                	                           | Description                                                                  	                                               |
 |--------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| 0  	  | [Week0 - Funtions, Variables](https://github.com/soitirakis/CS50_Python/tree/main/week0)   	 | Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.	                                                         |
+| 0  	  | [Week0 - Funtions, Variables](https://github.com/soitirakis/CS50_Python/tree/main/week0)   	 | <code>Functions. Arguments. Side Effects. Bugs. Return Values. Variables. Comments. Pseudocode. str. Parameters. int. Operators. Interactive Mode. float. def. Scope. return.	     </code>                                                    |
 | 1    	 | [Week1 - Conditionals](https://github.com/soitirakis/CS50_Python/tree/main/week1)        	 | <code>if. elif. else. or. and. bool. match.</code>                       	                                                                            |
 | 2    	 | [Week2 - Loops](https://github.com/soitirakis/CS50_Python/tree/main/week2)	             | <code>while. for. list. range. continue. break. list. len. dict. None.   </code>         	                                                  |
 | 3    	 | [Week3 - Exceptions](https://github.com/soitirakis/CS50_Python/tree/main/week3)     	        |<code> SyntaxError. ValueError. try. except. NameError. else. pass. raise. </code>                                                |
