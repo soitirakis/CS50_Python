@@ -4,7 +4,7 @@
   
   Harvard CS50 Python challenges. 
   
-  [Harvard CS50: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+  [Harvard CS50: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
 
 ## Table of contents
 
