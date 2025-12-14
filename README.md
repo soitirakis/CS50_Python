@@ -1,8 +1,6 @@
 # CS50_Python
  
-  ![alt text](https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg)
-   Harvard CS50 Python challenges. | 
-   [Harvard CS50: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+  ![alt text](https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg), Harvard CS50 Python challenges. |, [Harvard CS50: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
 ## Table of contents
 
